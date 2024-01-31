@@ -1,0 +1,36 @@
+.cn1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: blue;
+    padding: 5%;
+    color: white;
+}
+.cn01{
+   width: 225px;
+   height: 50px;
+   margin-top: 15px;
+    
+
+}
+.cn02{
+    margin-top: 10px;
+    justify-content: space-around;
+   
+}
+#cn03{
+    height: 100px;
+    width: 100px;
+    line-height: 4rem;
+    font-size: 2rem;
+    margin: 0 1rem;
+    color: rgb(244, 244, 252);
+    border-radius: 50%;
+   
+}
+.cn04{
+    margin-top: 50px;
+    color: blue;
+    font-weight: 500;
+
+}

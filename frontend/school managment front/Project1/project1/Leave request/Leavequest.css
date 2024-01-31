@@ -1,0 +1,67 @@
+#play1{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+}
+.play2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: greenyellow;
+    border-bottom: 1px solid black;
+    
+    
+}
+.play5{
+    color: orange;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+
+}
+.play3{
+  padding: 40px;  
+
+}
+.play4{
+    
+    width: 40%;
+    
+    border-radius: 10px;
+    margin-left: 350px;
+    border: 1px solid gray;
+    margin-top: 50px;
+    
+    background-color: white;
+}
+.play6{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    color: white;
+    border: none;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: larger;
+    width: 100px;
+    height: 30px;
+    margin-left: 140px;
+
+}
+.play6:hover{
+    border:1px solid orange;
+    background-color: aliceblue;
+    color: orange;
+}
+.play7{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 900;
+    color: black;
+    
+}
+

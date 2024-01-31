@@ -1,0 +1,232 @@
+.damin1 {
+    display: flex;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+    border: 2px solid rgb(34, 168, 225);
+    padding-bottom: 15px;
+   margin-top: 10px;
+   
+    
+}
+.damin2 {
+    margin-left: 100px;
+    
+
+}
+#damin01{
+  margin-top: 20px;
+  color: rgb(68, 144, 206);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  
+}
+
+#damin0003 {
+  display: inline-block;
+  padding: 7px 35px;
+  font-size: x-large;
+  font-weight: bold;
+  cursor: pointer;
+  color: #3498db;
+  background-color: #ffffff;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 50px; 
+  border:2px solid #3498db
+}
+#damin0003:hover{
+  background-color: #3498db;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+
+#damin0004 {
+  display: inline-block;
+  padding: 7px 15px;
+  font-size: x-large;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px solid #3498db;
+  color: #3498db;
+  background-color: #ffffff;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 50px;
+}
+#damin0004:hover{
+  background-color: #3498db;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+
+#damin5 {
+  display: inline-block;
+  padding: 7px 15px;
+  font-size: x-large;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px solid #3498db;
+  color: #3498db;
+  background-color: #ffffff;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 50px; 
+}
+#damin5:hover{
+  background-color: #3498db;
+  color: #ffffff;
+  border-color: #ffffff; 
+}
+
+
+.oli01 {
+    
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+#il {
+    font-family: 'Times New Roman', Times, serif;
+   color: rgb(9, 9, 13);
+   font-size: 30px;
+   padding: 5px;
+}
+
+.text{
+    cursor: none;
+ background-color: brown;
+}
+
+  .damin2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+  }
+  
+  .liter01 {
+    border: 2px solid rgb(34, 168, 225);
+    display: flex;
+    flex-wrap: nowrap;
+    
+    margin-top: 30px;
+    border-radius: 20px;
+  
+
+   
+  }
+  
+  .oli {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #il {
+    margin: 5px 0;
+    font-weight: 800;
+  }
+  
+  .liter02 {
+    color: rgb(191, 21, 191);
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 1000;
+    text-shadow: 1px 0 0 rgb(221, 208, 208);
+    margin-left: 490px;
+    text-decoration: underline;
+
+  }
+  .lit1{
+    color:rgb(221, 42, 221);
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-bottom: 3px solid rgb(17, 17, 200);
+    margin-top:30px;
+    width: 300px;
+    margin-left: 450px;
+  }
+  
+  #label1 {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+     
+      
+  }
+  
+  #label1 .ht1, #label1 .ht2  {
+    border: 1px solid #020700c1;
+    text-align: left;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(128, 128, 128, 0.056);
+   
+
+  }
+  
+  #label1 .ht1 {
+    background-color: rgb(14, 112, 223);
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: larger;
+    
+   
+  }
+  
+  #bt1431 {
+    margin: 5px;
+    padding: 8px;
+    cursor: pointer;
+    background-color:rgb(205, 18, 205);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    transition-duration: 0.4s;
+    border-radius: 4px;
+  }
+  
+  #bt1431:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(14, 112, 223);
+  }
+#update01{
+  margin: 5px;
+  padding: 8px;
+  cursor: pointer;
+  background-color:rgb(212, 25, 200);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  transition-duration: 0.4s;
+  border-radius: 4px;
+}  
+#update01:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid rgb(14, 112, 223);
+}
+
+
+.danger1{
+  color: rgb(42, 42, 204);
+}
+.minad1{
+  margin-top: 25px;
+}

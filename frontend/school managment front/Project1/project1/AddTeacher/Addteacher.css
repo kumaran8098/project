@@ -1,0 +1,90 @@
+.salu3{
+    display: flex;
+    margin-left: 50px;
+    
+    
+
+}
+.uliter01{
+    width: 68%;
+    margin-top: 1px;
+    /* border: 1px solid gray; */
+    box-shadow: 0 0 10px gray;
+    /* padding: 10px; */
+    border-radius: 15%;
+    margin-top: 30px; 
+    height: 725px;
+    margin-left: 175px;
+    
+}
+.salu1,.salu4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: mediumorchid;
+}
+.uliter02{
+    width: 340px;
+    height: 40px;
+    border-radius: 7px;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(36, 215, 33);
+    /* margin-top: 5px; */
+    padding: 10px;
+    border: none;
+    border: 1px solid gray;
+    
+    
+}
+.uliter02:hover{
+    border:1px solid rgb(63, 26, 198);
+}
+.salu1{
+    width: 50%;
+    margin-top: 20px;
+}
+.salu2{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.uliter03{
+    
+    width: 350px;
+    height: 40px;
+    margin-left: 230px;
+    margin-top: 20px;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-radius: 100px;
+    color: white;
+    border: none;
+    background-color: blue;
+    
+}
+.uliter03:hover{
+    background-color: aliceblue;
+    color: rgb(98, 18, 217);
+    border: 1px solid rgb(108, 30, 218);
+}
+.uliter04{
+    margin-left:260px ;
+    margin-top: 10px;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+      
+}
+.tamil1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #192ccf;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 2%;
+    
+    
+    
+}

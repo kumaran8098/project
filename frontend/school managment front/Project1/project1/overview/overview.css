@@ -1,0 +1,109 @@
+.h1vid0{
+    
+    margin-top: 75px;
+    color: rgb(15, 34, 205);
+    font-weight: 700;
+    
+    
+    
+  
+}
+.pvid0{
+    margin-top: 20px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sig1{
+  margin-left: 20px;
+}
+
+.talk1{
+  display: flex;
+  padding: 5%;
+  background-color: aliceblue;
+  margin-top: 50px;
+}
+.talk3{
+  margin-top: 20px ;
+  font-weight: 800;
+}
+.talk4{
+  font-weight: 800;
+}
+.talk5{
+  margin-top: 40px;
+  font-size: 16px;
+}
+
+#over01{
+  background-image: url(../istockphoto-1072472414-1024x1024.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  width: 380px;
+  height: 180px; 
+  
+}
+#over03{
+
+background-image: url(../pexels-photo-5212687.jpeg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 380px;
+  height: 180px; 
+  
+}
+#over04{
+  background-image: url(../teacher-4784916_1280.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 380px;
+  height: 180px;
+}
+
+.over04{
+  background-color: rgba(17, 224, 196, 0.789);
+  padding-top: 29.8%;
+  color: wheat;
+  transition: 0.5s;
+}
+.over04:hover{
+  background-color: rgba(46, 215, 209, 0.29);
+}
+.over03{
+  background-color: rgba(209, 69, 13, 0.804);
+  padding-top: 29.8%;
+  color: wheat;
+  transition: 0.5s;
+  
+}
+.over03:hover{
+  background-color: rgba(215, 77, 46, 0.547);
+}
+
+
+.over02{
+  background-color: rgba(204, 32, 210, 0.867);
+  padding-top: 29.8%;
+  color: wheat;
+  transition: 0.5s;
+
+}
+.over02:hover{
+  background-color: rgba(215, 46, 215, 0.523);
+}
+
+.over1{
+  display: flex;
+  padding: 60px;
+  background-color: aliceblue;
+
+}
+.st1{
+  font-weight: 900;
+  margin-left: 15px;
+}
+.st2{
+  margin-left: 15px;
+  
+}

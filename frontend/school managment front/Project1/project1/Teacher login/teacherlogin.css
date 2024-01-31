@@ -1,0 +1,122 @@
+
+.cidpr01{
+  box-shadow: 0 0 10px  gray;
+  width: 350px;
+  height: 400px;
+  border-radius: 5px;
+ 
+ 
+  /* margin: 100px; */
+  margin-left: 350px;
+  
+}
+.cidpr03{
+  padding: 4%;
+      width: 350px;
+      font-size: x-large;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: rgb(239, 246, 245);
+      background-color: aqua;
+      font-weight: 900;
+      border: none;
+      border-radius: 3px;   
+}
+
+
+.cidpr05{
+  margin-left: 120px;
+  margin-top: 10px;
+  width: 100px;
+  height: 35px;
+  border: none;
+  background-color: rgb(18, 183, 212);
+  color:rgb(239, 226, 226);
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  border-radius: 3px;
+  box-shadow: 0px 0px 20px rgb(231, 235, 235);
+
+}
+.cidpr05:hover{
+  background-color: rgb(250, 245, 245);
+  color: rgb(21, 227, 227);
+  border: 1px solid rgb(24, 214, 214);
+}
+.hed01{
+  font-size: x-large;
+  font-style:inherit;
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(2, 2, 21);
+  margin:10px;
+}
+.hed02{
+  font-size: x-large;
+  font-style:inherit;
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(4, 4, 15);
+  margin:10px;
+
+
+}
+#username{
+  border: none;
+  border-bottom: 2px solid rgba(135, 130, 130, 0.728);
+  border-left: 2px solid rgba(177, 173, 173, 0.225);
+  border-width: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  border-top: 2px solid rgba(135, 130, 130, 0.193);
+  border-right: 2px solid rgba(177, 173, 173, 0.186);
+  border-radius: 2px;
+  margin: 5px;
+  height: 43px;
+  margin-left: 20px;
+  background-color:white;
+  color: rgb(119, 255, 0);
+  outline: none;  
+}
+#password{
+  border: none;
+  border-bottom: 2px solid rgba(135, 130, 130, 0.728);
+  border-left: 2px solid rgba(177, 173, 173, 0.19);
+  border-width: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+  border-top: 2px solid rgba(135, 130, 130, 0.193);
+  border-right: 2px solid rgba(177, 173, 173, 0.266);
+  border-radius: 2px;
+  margin: 5px;
+  height: 43px;
+  margin-left: 25px;
+  background-color: white;
+  color: rgb(47, 255, 0);
+  outline: none;
+  width:270px;
+}
+.user01{
+  margin: 5px;
+  margin-left: 25px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:larger;
+  font-weight: 100;
+  color: red;
+  
+}
+.password01{
+  margin: 5px;
+  margin-left: 25px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:larger;
+  font-weight: 100;
+  color: red;
+}
+.cidpr010{
+  padding: 10%;
+}
+
+  
+  
+

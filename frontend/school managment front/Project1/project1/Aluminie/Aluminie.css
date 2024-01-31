@@ -1,0 +1,80 @@
+.alu1{
+    font-weight: 600;
+    color: blue;
+    margin-top: 50px;
+}
+
+
+
+
+.teacher .box-container {
+    display: flex;
+    gap: 2rem;
+    margin-top: 50px;
+}
+
+.teacher .box-container .box {
+    background: rgba(31, 69, 222, 0.703);
+    
+    border-radius: .5rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.teacher .box-container .box .image {
+    position: relative;
+    overflow: hidden;
+}
+
+.teacher .box-container .box .image img {
+    background: var(--secondary);
+    width: 100%;
+}
+
+.teacher .box-container .box:hover .image .share {
+    bottom: 0;
+}
+
+.teacher .box-container .box .image .share {
+    position: absolute;
+    bottom: -10rem;
+    left: 0;
+    right: 0;
+    padding: 2rem;
+}
+
+.teacher .box-container .box .image .share a {
+    height: 100px;
+    width: 100px;
+    line-height: 4rem;
+    font-size: 2rem;
+    margin: 0 1rem;
+    color: rgb(32, 32, 224);
+    border-radius: .5rem;
+}
+
+.teacher .box-container .box .image .share a:hover {
+    color: var(--primary-color);
+    background: var(--secondary);
+}
+
+.teacher .box-container .box .content {
+    
+    padding-top: 1rem;
+    align-items: center;
+}
+
+.teacher .box-container .box .content h3 {
+    font-size: 2rem;
+    color: white;
+    
+}
+
+.teacher .box-container .box .content span {
+    font-size: 1.5rem;
+    line-height: 2;
+    color:white;
+    
+}

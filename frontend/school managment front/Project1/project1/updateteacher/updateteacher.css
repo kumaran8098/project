@@ -1,0 +1,72 @@
+.leven3{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+
+}
+
+.four01{
+    width: 70%;
+    margin-top: 10px;
+    border:2px solid gray;
+    margin-left: 200px;
+    padding: 50px;
+    border-radius: 50px 100px;
+    border:none;
+    box-shadow: 0 0 10px gray;   
+    
+}
+.leven1,.leven4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.four02{
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(36, 215, 33);
+    margin-top: 5px;
+    padding: 5px;
+    
+}
+.leven1{
+    width: 50%;
+    margin-top: 20px;
+}
+.leven2{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.four03{
+    width: 375px;
+    height: 40px;
+    margin-left: 190px;
+    margin-top: 20px;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-radius: 100px;
+    color: white;
+    border: none;
+    background-color: blue;
+    
+}
+.four03:hover{
+    background-color: aliceblue;
+    color: rgb(98, 18, 217);
+    border: 1px solid rgb(108, 30, 218);
+}
+
+.english1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: blue;
+    border-bottom: 4px solid gray;
+    width: 250px;
+    text-shadow: 1px 0 0 black;
+    margin-left: 225px;
+}

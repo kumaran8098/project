@@ -1,0 +1,78 @@
+.queit3{
+    display: grid;
+    grid-template-columns: 50% 50%;  
+}
+.ten01{
+    width: 70%;
+    margin-top: 20px;
+    border:2px solid gray;
+    margin-left: 180px;
+    padding: 40px;
+    border-radius: 50px 100px;
+    border:none;
+    box-shadow: 0 0 10px gray;   
+    
+}
+.queit1,.queit4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: rgb(255, 0, 208);
+}
+.ten02{
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(36, 215, 33);
+    margin-top: 5px;
+    padding: 5px;
+    
+}
+.queit1{
+    width: 50%;
+    margin-top: 20px;
+}
+.queit2{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.ten03{
+    
+    width: 350px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-radius: 100px;
+    color: white;
+    border: none;
+    background-color: blue;
+    
+}
+.ten03:hover{
+    background-color: aliceblue;
+    color: rgb(98, 18, 217);
+    border: 1px solid rgb(108, 30, 218);
+}
+.ten04{
+    margin-left:260px ;
+    margin-top: 30px;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large; 
+}
+.tne1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: blue;
+    border-bottom: 4px solid gray;
+    width: 225px;
+    text-shadow: 1px 0 0 black;
+    margin-left: 250px;
+}
